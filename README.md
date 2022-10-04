@@ -52,7 +52,7 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
   - Introduction to Finite Difference Methods
   - Introduction to Finite Element Methods
 
-### Module 2 (Basis of Numerical Analysis - Part II - Prof. Ganluigi Rozza)
+### Module 2 (Basis of Numerical Analysis - Part II - Prof. Gianluigi Rozza)
 
 - Least square methods
 - Solution methods for Linear Systems
